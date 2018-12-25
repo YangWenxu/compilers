@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545704160 source:c:\users\26539\desktop\compilers\code\semantic\main.cpp
+	<stdio.h>
+	<string.h>
+
